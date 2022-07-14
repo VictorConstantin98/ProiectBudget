@@ -72,8 +72,6 @@ namespace Budget
                     elementIndex = transactionsList.IndexOf(element);
                     transactionsList.RemoveAt(elementIndex);
                     break;
-
-                    
                 }
             }
         }

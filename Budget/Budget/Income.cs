@@ -29,5 +29,22 @@ namespace Budget
             return incomeString;
         }
         // to implement equals 
+
+        public override bool Equals(object? obj)
+        {
+            if(obj is Income)
+            {
+                if (this.provenience == ((Income)obj).provenience && this.name == ((Income)obj).name)
+                {
+                    return true;
+                }
+                return false;
+            }
+            else
+            {
+                return false;
+            }
+            
+        }
     }
 }

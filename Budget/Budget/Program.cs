@@ -78,6 +78,17 @@ namespace Budget
             buget1.sortTransactions();
             Console.WriteLine("Lista Sortata");
             Console.WriteLine(buget1);
+
+            Console.WriteLine("\n");
+            Console.WriteLine("Testam metoda Equals");
+            Console.WriteLine("--------------------");
+            bool rezultat;
+            rezultat = income1.Equals(income2);
+            Console.WriteLine(rezultat);
+
+            Income income3 = new Income("Salary", 400, "Salary January");
+            rezultat = income1.Equals(income3);
+            Console.WriteLine(rezultat);
         }
     }
 }
