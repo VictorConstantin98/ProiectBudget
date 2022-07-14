@@ -1,0 +1,15 @@
+C:\Users\Costi\source\repos\Budget\Budget\bin\Debug\net6.0\Budget.exe
+C:\Users\Costi\source\repos\Budget\Budget\bin\Debug\net6.0\Budget.deps.json
+C:\Users\Costi\source\repos\Budget\Budget\bin\Debug\net6.0\Budget.runtimeconfig.json
+C:\Users\Costi\source\repos\Budget\Budget\bin\Debug\net6.0\Budget.dll
+C:\Users\Costi\source\repos\Budget\Budget\bin\Debug\net6.0\ref\Budget.dll
+C:\Users\Costi\source\repos\Budget\Budget\bin\Debug\net6.0\Budget.pdb
+C:\Users\Costi\source\repos\Budget\Budget\obj\Debug\net6.0\Budget.csproj.AssemblyReference.cache
+C:\Users\Costi\source\repos\Budget\Budget\obj\Debug\net6.0\Budget.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Costi\source\repos\Budget\Budget\obj\Debug\net6.0\Budget.AssemblyInfoInputs.cache
+C:\Users\Costi\source\repos\Budget\Budget\obj\Debug\net6.0\Budget.AssemblyInfo.cs
+C:\Users\Costi\source\repos\Budget\Budget\obj\Debug\net6.0\Budget.csproj.CoreCompileInputs.cache
+C:\Users\Costi\source\repos\Budget\Budget\obj\Debug\net6.0\Budget.dll
+C:\Users\Costi\source\repos\Budget\Budget\obj\Debug\net6.0\ref\Budget.dll
+C:\Users\Costi\source\repos\Budget\Budget\obj\Debug\net6.0\Budget.pdb
+C:\Users\Costi\source\repos\Budget\Budget\obj\Debug\net6.0\Budget.genruntimeconfig.cache

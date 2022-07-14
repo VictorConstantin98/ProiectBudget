@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b2a9cee3-63c3-4e43-b761-f31e68a5456d": {
+      "ProjectGuid": "b2a9cee3-63c3-4e43-b761-f31e68a5456d",
+      "DisplayName": "Budget",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
