@@ -17,6 +17,8 @@ namespace Budget
             this.name = name;
         }
 
+        
+
         public double getValue()
         {
             return this.value;

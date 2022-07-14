@@ -28,5 +28,6 @@ namespace Budget
             incomeString = incomeString + "\n" + "Provenience: " + provenience + "\n" + "Value: " + value + "\n" + "Name: " + name;
             return incomeString;
         }
+        // to implement equals 
     }
 }

@@ -61,10 +61,23 @@ namespace Budget
             transactionsList.Add(expense1);
             Console.WriteLine(transactionsList.Count);
 
-            
+
 
             //De adaugat un expense
             //Sa vizualizam lista de tranzactii
+
+
+            Console.WriteLine("\n");
+            /// Rezultatele unei comparatii 
+            Console.WriteLine(2 < 3);
+
+            // Sortarea unui transactiilor
+            Console.WriteLine("\n\n\n ----------------------------");
+            Console.WriteLine("Lista Nesortata");
+            Console.WriteLine(buget1);
+            buget1.sortTransactions();
+            Console.WriteLine("Lista Sortata");
+            Console.WriteLine(buget1);
         }
     }
 }

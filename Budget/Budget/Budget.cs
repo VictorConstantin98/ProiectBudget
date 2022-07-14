@@ -72,8 +72,19 @@ namespace Budget
                     elementIndex = transactionsList.IndexOf(element);
                     transactionsList.RemoveAt(elementIndex);
                     break;
+
+                    
                 }
             }
+        }
+        /*
+         * Sort the Transactions based on value
+         * 
+         */
+
+        public void sortTransactions()
+        {
+            this.transactionsList.Sort();
         }
 
         /*
