@@ -32,7 +32,8 @@ namespace Budget
 
         public override bool Equals(object? obj)
         {
-            if(obj is Income)
+            // Varianta cu tratare a exceptiei
+            try
             {
                 if (this.provenience == ((Income)obj).provenience && this.name == ((Income)obj).name)
                 {
@@ -40,11 +41,28 @@ namespace Budget
                 }
                 return false;
             }
-            else
+            catch (InvalidCastException ex)
             {
                 return false;
             }
+           
+
+            // Varianta Cu verificare a tipului de obiect
+            /*if(obj is Income)
+            {
+           
+                if (this.provenience == ((Income)obj).provenience && this.name == ((Income)obj).name)
+                {
+                    return true;
+                }
+                return false;
             
+            }
+            else
+            {
+                return false;
+            }*/
+
         }
     }
 }
